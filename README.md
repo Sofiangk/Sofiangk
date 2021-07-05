@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sofiangk
-- 👀 I’m interested in Web Application and UX/UI
-- 🌱 I’m currently learning VB.NET, C, Python
+- 🤔 I’m interested in: Web Application and UX/UI
+- 🌱 I currently know basic coding in: VB.NET, C
+- 👀 Looking forward to learning: HTML, CSS, PHP, Java, JavaScript
 - 📫 How to reach me: Discord: Sofiangk#3897, Twitter: @Sofiangk
 
 <!---
